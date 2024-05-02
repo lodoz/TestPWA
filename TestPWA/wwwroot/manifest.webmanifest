@@ -1,0 +1,28 @@
+﻿{
+  "name": "Lotería Mexicana",
+  "short_name": "Lotería",
+  "icons": [
+    {
+      "src": "\/img\/favicon\/icon-32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "\/img\/favicon\/icon-128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "\/img\/favicon\/icon-256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "\/img\/favicon\/icon-512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "description": "Aplicación móvil de LOTERÍA MEXICANA",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest&utm_medium=web_app_manifest",
+  "orientation": "portrait",
+  "theme_color": "#FF000A",
+  "background_color": "#FF000A"
+}
